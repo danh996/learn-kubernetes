@@ -1,0 +1,3 @@
+https://viblo.asia/p/kubernetes-series-bai-2-kubernetes-pod-thanh-phan-de-chay-container-YWOZr3QElQ0
+
+docker build . -t 080196/hello-kube: build image voi file Docker trong thu muc hien tai va tag la 080196/hello-kube
